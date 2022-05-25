@@ -92,7 +92,7 @@ main{
     color: red;
 }
 
-.Overview{
+.overview{
     background-color: #fff;
     padding: 2rem;
     position: absolute;
@@ -104,6 +104,6 @@ main{
     transition: transform 0.3s ease-in;
 }
 
-.movie:hover .Overview{
+.movie:hover .overview{
     transform: translateY(0);
 }
